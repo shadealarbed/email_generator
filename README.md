@@ -40,7 +40,7 @@ After completing the setup, you can use the project to generate emails based on 
 
 ```bash
 python generate_emails.py
-
+```
 
 sample:
 ![‏‏لقطة الشاشة (95)](https://github.com/shadealarbed/email_generator/assets/82084137/81f02f6e-0c7a-4675-a147-fe8a29614067)
